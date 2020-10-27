@@ -1,0 +1,27 @@
+@font-face {
+    font-family: "fonte1";
+    src: url(../fontes/modernline.otf);
+}
+
+.classtext h1 {
+font-family: "fonte";
+src: url(../fontes/CabinSketch-Bold.otf);
+}
+
+.col-3 h1 {
+    font-size: 35px;
+}
+
+.col-3 p {
+    font-size: 15px;
+}
+
+.conteudo {
+    position: relative;
+    overflow: auto;
+    height: 200px;
+}
+
+.borda {
+    border: 1px solid #ccc;
+}
