@@ -65,7 +65,7 @@
 
 
                     <div class="col-5">
-                        <h3 class=" text-left"><i class="chris-library">EMPRESAS </i>
+                        <h3 class="display-5 text-info text-center"><i class="chris-library">EMPRESAS </i>
                         </h3>
 
                         <p>
@@ -98,19 +98,22 @@
 
 
                     <div class="col-3">
-                        <h3 class=" text-left"><i class="chris-clipboard">CURSOS </i>
+                        <h3 class="display-5 text-info text-center"><i class="chris-clipboard">CURSOS </i>
 
                         </h3>
-                        <p>SECURITY CENTER</p>
-                        <li>
 
-                            </p>
+                        <p>
+                            <li>
+                                SECURITY CENTER
+                        </p>
+
+                        </p>
 
                         </li>
-                        <p>SENAC</p>
-                        <li>
-                            2020 WEB DESIGN
-                            </p>
+                        <p>
+                            <li>
+                                2020 WEB DESIGN
+                        </p>
 
                         </li>
 
@@ -122,8 +125,8 @@
 
                 <div class="row">
 
-                    <div class="col-4">
-                        <h3 class=" text-left"><i class="chris-profile"> EXPERIENCIA </i>
+                    <div class="col">
+                        <h3 class=" display-5 text-info text-center"><i class="chris-profile"> EXPERIENCIA </i>
                         </h3>
                         <hr>
                         <p>
@@ -147,18 +150,18 @@
                     <div class="col">
 
                     </div>
-                </div>
-                
-            </div>
-            <h3 class="text-center">
-                Hobbs
-            </h3>
-            <p class="text-center">
-                <i class="chris-music"></i>
-                <i class="chris-book"></i>
-                <i class="chris-dribbble"></i>
-            </p>
 
+                    <h3 class=" display-5 text-info text-center">
+                        Hobbs
+                    </h3>
+                    <p class="text-center">
+                        <i class="chris-music"></i>
+                        <i class="chris-book"></i>
+                        <i class="chris-dribbble"></i>
+                    </p>
+                </div>
+            </div>
+                
 
 
             <!-- fim da container -->
