@@ -4,8 +4,8 @@
 }
 
 .classtext h1 {
-font-family: "fonte";
-src: url(../fontes/CabinSketch-Bold.otf);
+    font-family: "fonte";
+    src: url(../fontes/CabinSketch-Bold.otf);
 }
 
 .col-3 h1 {
@@ -24,4 +24,8 @@ src: url(../fontes/CabinSketch-Bold.otf);
 
 .borda {
     border: 1px solid #ccc;
+}
+
+.classtext-right  p {
+    font-size: 25px;
 }

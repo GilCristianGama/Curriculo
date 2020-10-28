@@ -36,10 +36,9 @@
 
                     <div class="row">
                         <div class="col-3">
-                            <img src="public/Img/Face_n.jpg" class="img-fluid img-thumbnail" alt="Destaque do produto"
-                                alt="Imagem do produto">
+                            <img src="public/Img/Face_n.jpg" alt="..." class="img-fluid img-thumbnail rounded-circle">
                         </div>
-                        <div class="col-9">
+                        <div class="col-">
                             <h2 class="texte-center ">Gil Cristian
                             </h2>
                             <p>Constante no trabalho,aprendendo sempre cada dia esta disponivel pra tudo ,sem medo de
@@ -50,68 +49,117 @@
                             <p><i class="chris-twitter"></i>@PpgamaC</p>
                             <p><i class="chris-whatsapp"></i>(81)98134-0913</p>
                         </div>
-                    </div>
                 </header>
-                <!-- ********************************
+            </div>
+            <!-- ********************************
                 -->
-                <h1> Empresas</h1>
 
-                <div class="container">
-                    <div class="row">
-                        <div class="col">
-                            <div id="list-example" class="list-group">
-                                <a class="list-group-item list-group-item-action" href="#list-item-1"> <i
-                                        class="chris-star-full"> </i><strong>C&A </strong></a>
-                                <a class="list-group-item list-group-item-action" href="#list-item-2"> <i
-                                        class="chris-star-full"> </i><strong> REAL HOSPITAL PORTUGUÊS</strong></a>
-                                <a class="list-group-item list-group-item-action" href="#list-item-3"> <i
-                                        class="chris-star-full"> </i><strong>LEÃO ARTIGOS
-                                    </strong></a>
-                                <a class="list-group-item list-group-item-action" href="#list-item-4"> <i
-                                        class="chris-clipboard"> </i> <strong>CURSOS </strong></a>
+            <h1 class="text-center "><i class="chris-library">Historico Academicos </i> </h1>
+            <hr>
 
-                            </div>
-                        </div>
-                        <div class="col">
-                            <div data-spy="scroll" data-target="#list-example" data-offset="0"
-                                class="scrollspy-example scrollspyProdutos">
-                                <h4 id="list-item-1">C&A</h4>
-                                <p>C&A é uma cadeia internacional de lojas de vestuário. No Brasil, é uma das maiores
-                                    rede de
-                                    lojas de
-                                    departamento do país e a décima segunda maior empresa varejista, segundo ranking do
-                                    Ibevar
-                                    em 2012. Foi
-                                    fundada nos Países Baixos em 1841 pelos irmãos Clemens e August como uma empresa
-                                    têxtil</p>
-                                <h4 id="list-item-2">Real Hospital Português</h4>
-                                <p>O Real Hospital Português é um hospital brasileiro, fundado em 16 de novembro de 1855
-                                    na
-                                    cidade do
-                                    Recife,
-                                    capital de Pernambuco. Trata-se do maior complexo hospitalar do Norte-Nordeste do
-                                    Brasil.
-                                </p>
-                                <h4 id="list-item-3">Leão Artigos</h4>
-                                <p>localizada na rua santa Rita no Bairro de Sao jose ,trabalhando com objetos
-                                    importados da
-                                    china.</p>
 
-                                <h4 id="list-item-4">SENAC</h4>
-                                <p>Web Design duracao 120h </p>
-                                <h4 id="list-item-5">SECURYTY CENTER</h4>
-                                <p>Dotar o aluno de conhecimentos, técnicas, habilidades e atitudes que o capacitem para
-                                    o exercício da profissão de vigilante, em complemento à segurança pública, incluídas
-                                    as atividades relativas à vigilância patrimonial, à segurança física de
-                                    estabelecimentos financeiros e outros, preparo para dar atendimento e segurança às
-                                    pessoas e manutenção da integridade do patrimônio que guarda,
-                                    bem como adestramento para o uso de armamento convencional e o emprego de defesa
-                                    pessoal;</p>
-                            </div>
-                        </div>
+            <div class="container">
+
+
+                <div class="row">
+
+
+                    <div class="col-5">
+                        <h3 class=" text-left"><i class="chris-library">EMPRESAS </i>
+                        </h3>
+
+                        <p>
+                            <li>
+                                2010-2012 LEAO ARTIGOS
+
+                        </p>
+                        </li>
+                        <p>
+                            <li>
+                                2015-2015 Quality servicos
+                        </p>
+
+                        </li>
+                        <p>
+                            <li>
+                                2015-2016 R.H.Portugues
+                        </p>
+
+                        </li>
+                        <p>
+                            <li>
+                                2017-2020 C&a
+                        </p>
+
+                        </li>
                     </div>
                 </div>
+                <div class="row">
+
+
+                    <div class="col-3">
+                        <h3 class=" text-left"><i class="chris-clipboard">CURSOS </i>
+
+                        </h3>
+                        <p>SECURITY CENTER</p>
+                        <li>
+
+                            </p>
+
+                        </li>
+                        <p>SENAC</p>
+                        <li>
+                            2020 WEB DESIGN
+                            </p>
+
+                        </li>
+
+                        </li>
+                    </div>
+
+                    <hr>
+                </div>
+
+                <div class="row">
+
+                    <div class="col-4">
+                        <h3 class=" text-left"><i class="chris-profile"> EXPERIENCIA </i>
+                        </h3>
+                        <hr>
+                        <p>
+                            <li>
+                                PORTARIA
+                        </p>
+
+                        <p>
+                            <li>
+                                vendedor
+                        </p>
+                        </li>
+                        <p>
+                            <li>
+                                fiscal de loja
+
+                            </li>
+                        </p>
+                    </div>
+
+                    <div class="col">
+
+                    </div>
+                </div>
+                
             </div>
+            <h3 class="text-center">
+                Hobbs
+            </h3>
+            <p class="text-center">
+                <i class="chris-music"></i>
+                <i class="chris-book"></i>
+                <i class="chris-dribbble"></i>
+            </p>
+
+
 
             <!-- fim da container -->
 
@@ -131,7 +179,7 @@
 
     </div>
 
-    
+
     <!-- Footer -->
 
     <hr>
@@ -142,6 +190,7 @@
             <h1 class="text-right"><i class="chris-facebook"></i>
                 <i class="chris-twitter"></i>
                 <i class="chris-dribbble"></i>
+
             </h1>
         </div>
         <!-- Fim container -->
